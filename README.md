@@ -34,7 +34,7 @@ $ whoami
   │   ─────────────────────────────────────────────           │
   │   Role      →  AI Engineer + Full Stack Builder            │
   │   Status    →  Currently breaking prod (productively)      │
-  │   Based in  →  Coimbatore, India  🇮🇳                      │
+  │   Based in  →  Banglore, India  🇮🇳                      │
   │   Patents   →  2 filed. More incoming.                     │
   │   Wins      →  10+ national hackathons. Still counting.    │
   │                                                            │
